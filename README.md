@@ -1,8 +1,3 @@
-# 478BookGenreClassificationAI
-Group Project for 478
+# Project Gutenberg Book Genre Classifier
 
-4 tasks:
-Ryan: parse data from gutenberg into a plain text format
-Ben H: parse headers/footers out of data
-Ben G: parse data using NLTK
-Jordan: parse NLTK data into ARFF
+This project leverages a variety of machine learning algorithms to classify hundreds of Project Gutenberg book texts by genre.
