@@ -6,3 +6,4 @@ books/*.txt
 parsed_books/*.txt
 
 .DS_Store
+/venv/
