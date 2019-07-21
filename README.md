@@ -1,5 +1,7 @@
 # Project Gutenberg Book Genre Classifier
 
+[Research Report](doc/ResearchProject.pdf)
+
 This project leverages a variety of machine learning algorithms to classify hundreds of Project Gutenberg book texts by genre.
 
 The model is written in Python and uses the Natural Language Toolkit (nltk) for natural language processing (stopword removal, tokenization, setting up the bag-of-words approach, etc). We then use Skikit-Learn coupled with Numpy and Pandas, training and testing on five models: multi-layer perceptron, a modified clustering algorithm, a decision tree, logistic regression, and a random forest.
