@@ -6,4 +6,4 @@ The model is written in Python and uses the Natural Language Toolkit (nltk) for 
 
 After rigorous testing, the random forest ensemble consistently achieved the highest accuracy at slightly over 80%. For extensive technical details, view our [research report](doc/ResearchProject.pdf)
 
-[data visualization](data-visualizations/Figure4.JPG)
+![data visualization](data-visualizations/Figure4.JPG)
